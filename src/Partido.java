@@ -1,8 +1,8 @@
 public class Partido {
 
-    Equipo equipo1;
-    Equipo equipo2;
-    int golesEquipo1;
-    int getGolesEquipo2;
+    private Equipo equipo1;
+    private Equipo equipo2;
+    private int golesEquipo1;
+    private int getGolesEquipo2;
 
 }

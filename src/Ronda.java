@@ -1,4 +1,6 @@
 public class Ronda {
-String nro;
-Partido[] partidos;
+private String nro;
+private Partido[] partidos;
+
+
 }

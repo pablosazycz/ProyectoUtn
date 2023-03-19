@@ -1,4 +1,4 @@
 public class Equipo {
-    String nombre;
-    String descripcion;
+  private  String nombre;
+  private  String descripcion;
 }

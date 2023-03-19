@@ -1,5 +1,6 @@
 public class Pronostico {
-    Partido partido;
-    Equipo equipo;
+  private  Partido partido;
+
+  private Equipo equipo;
 
 }
